@@ -1,4 +1,4 @@
-public class Movimiento { //clase movimiento
+public class Movimiento { //clase movimiento hola
 	
 	private int codigo;
 	private char tipoOperacion;
