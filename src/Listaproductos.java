@@ -116,7 +116,6 @@ public class Listaproductos { //Singleton (clase de una unica instancia)
 		} else {
 			System.out.println("Error 2123-b: un producto que no existe no se puede devolver ni vender");
 		}
-		teclado.close();
 	}
 
 	public void actualizarFicheroInventario() throws IOException { //actualiza el fichero inventario.txt a partir de la lista de productos
